@@ -1,1 +1,1 @@
-My first project before checking
+https://github.com/kausha2339/ono-tebe-nado.git
