@@ -93,13 +93,11 @@
 .aligned-text :first-child {
   line-height: 115%;
   gap: 0;
-
 }
 .aligned-text_center {
   display: flex;
   justify-content: center;
   align-content: center;
-
 }
 
 .aligned-text_right {
@@ -252,7 +250,7 @@
 
 .lots_look-more-link {
   padding-top: 31px;
-  padding-left: 38px; 
+  padding-left: 38px;
   display: flex;
   font-size: 20px;
   font-weight: 400;
